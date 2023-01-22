@@ -1,0 +1,36 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.bg-warning {
+    background-color: #313131 !important;
+}
+.btn-outline-dark {
+    color: #ffffff;
+    border-color: #ffffff;
+}
+.button-admin{
+    color: white;
+    border-color: black ;
+    background-color: #313131;
+}
+.button-success{
+font-size: 1rem;
+}
+.content-success{
+    font-size: 1rem;
+}
+.flex-column{
+    max-width: 330px;
+}
+/*.row{*/
+/*    font-size: 1.5rem;*/
+/*}*/
+.navbar{
+    padding: 1.5rem;
+}
+body {
+    background: #ffffff; /* Цвет фона /
+    color: #fc0; / Цвет текста */
+}
+.column{
+    max-width: 490px;
+}

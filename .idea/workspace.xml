@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67ce8c87-ffd8-4fed-9ae0-39039507792f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2FzhiysCvP8RxcQ0sN1xua4Lzvp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="D:\zapis\dowlands\webstorm\WebStorm 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\zapis\dowlands\webapp\client\public" />
+      <recent name="D:\zapis\dowlands\webapp\client" />
+      <recent name="D:\zapis\dowlands\webapp" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67ce8c87-ffd8-4fed-9ae0-39039507792f" name="Default Changelist" comment="" />
+      <created>1665500950929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665500950929</updated>
+      <workItem from="1665500952286" duration="2225000" />
+      <workItem from="1665503193374" duration="11500000" />
+      <workItem from="1665581088742" duration="736000" />
+      <workItem from="1665582335155" duration="16471000" />
+      <workItem from="1665665885760" duration="2864000" />
+      <workItem from="1665670925507" duration="661000" />
+      <workItem from="1665671870591" duration="5835000" />
+      <workItem from="1665833620196" duration="10779000" />
+      <workItem from="1667498162015" duration="533000" />
+      <workItem from="1670443378139" duration="67086000" />
+      <workItem from="1670866421283" duration="3144000" />
+      <workItem from="1670921245948" duration="347000" />
+      <workItem from="1673998979810" duration="221000" />
+      <workItem from="1674242163692" duration="1928000" />
+      <workItem from="1674248427835" duration="391000" />
+      <workItem from="1674248837073" duration="1347000" />
+      <workItem from="1674399799104" duration="1983000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="165" key="SettingsEditor" timestamp="1667498593161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1667498593161" />
+    <state x="895" y="105" width="772" height="805" key="find.popup" timestamp="1670639296306">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="895" y="105" width="772" height="805" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1670639296306" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1670630882417">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1670630882417" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1674250194705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1674250194705" />
+  </component>
+</project>
